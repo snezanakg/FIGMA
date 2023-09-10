@@ -1,12 +1,12 @@
 .logo {color: #0A1B32;
-    font-family:Montserrat;
+    font-family:'monserrat';
     font-size: 128px;
     font-style: normal;
     font-weight: 700;
     line-height: 48px; /* 37.5% */
     letter-spacing: -2.56px;
     margin-left: 418px;
-    margin-top: 371px
+    margin-top: 371px;
 
 }
 
@@ -27,7 +27,7 @@ section {
     width: 100%;
     margin-left: 453px;
     margin-top: 1154;
-    font-family: Inter;
+    font-family:'inter;'
     font-size: 128px;
     font-style: normal;
     font-weight: 700;
@@ -43,7 +43,7 @@ section {
     margin-top:1544px;
     margin-left: 395px;
     color: #9A9A9A;
-    font-family: Inter;
+    font-family: 'inter';
     font-size: 64px;
     font-style: normal;
     font-weight: 400;
